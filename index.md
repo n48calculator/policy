@@ -2,122 +2,34 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Privacy Policy for -48 Calculator
 
-[Link to another page](./another-page.html).
+Last Updated: July 17, 2025
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Welcome to -48 Calculator, a simple gematria calculator developed by [Tom McSorley]. We are committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our app. Spoiler: we don’t collect or share any of it!
 
 * * *
 
-### Here is an unordered list:
+1. Information We Collect
+We do not collect any personal data or information from you when you use -48 Calculator. The app operates entirely offline and does not require or request access to your personal details, such as your name, email address, location, or device information. No data is stored, tracked, or processed by the app.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+2. How We Use Your Information
+Since we don’t collect any information, there’s nothing for us to use! The app’s sole purpose is to assist you in performing gematria calculations, and saves your entries locally on your device.
 
-### And an ordered list:
+3. Sharing Your Information
+We do not share any information with third parties because we don’t collect any in the first place. No analytics tools, advertisers, or other entities receive data from -48 Calculator.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+4. Data Storage and Security
+All calculations happen locally on your device, and can optionally be saved on your device. Nothing is transmitted to us or anyone else.
 
-### And a nested list:
+5. Children’s Privacy
+-48 Calculator is safe for users of all ages. Since we collect no data, there are no privacy concerns related to children or anyone else using the app.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+6. International Availability
+-48 Calculator is available worldwide. Regardless of where you are, our commitment to not collecting or sharing data remains the same.
 
-### Small image
+7. Changes to This Privacy Policy
+If we ever update this Privacy Policy (for example, if the app’s functionality changes), we’ll revise the “Last Updated” date at the top of this page. Any significant changes will be communicated through the app or other reasonable means.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+8. Contact Us
+If you have any questions about this Privacy Policy or -48 Calculator, feel free to reach out to us at [tjmcsorley@gmail.com].
